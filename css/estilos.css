@@ -1,0 +1,20 @@
+
+.call{
+    height: 200px;
+    background-color: rgb(202, 199, 199);
+}
+.article{
+    height: 300px;
+    border: 2px solid darkslategrey;
+    background-color:darkgrey;
+}
+
+footer{
+    height: 50px;
+    justify-content: flex-end;
+    background-color: rgb(172, 171, 171);
+}
+
+.row__mate{
+    height: 200px;
+}
